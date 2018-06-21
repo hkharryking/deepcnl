@@ -2,7 +2,6 @@
 """
 Created on Sun Nov 19 14:41:42 2017
 
-@author: wangyue
 Stock price preidiction based on a mixed deep learning model
 with crossentropy, mse and differential reward
 correct the code with:
